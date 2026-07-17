@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Resultados y videos generados
+Results/
+Notes/
+*.mp4
+
+# Sistema
+.DS_Store
